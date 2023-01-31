@@ -112,7 +112,7 @@ require (
 	github.com/streadway/amqp v0.0.0-20190827072141-edfb9018d271
 	github.com/stretchr/testify v1.7.0
 	github.com/tbrandon/mbserver v0.0.0-20170611213546-993e1772cc62
-	github.com/tidwall/gjson v1.6.0
+	github.com/tidwall/gjson v1.9.3
 	github.com/tinylib/msgp v1.1.5
 	github.com/vapourismo/knx-go v0.0.0-20201122213738-75fe09ace330
 	github.com/vishvananda/netlink v0.0.0-20171020171820-b2de5d10e38e // indirect
