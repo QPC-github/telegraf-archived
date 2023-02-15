@@ -96,10 +96,10 @@ require (
 	github.com/openconfig/gnmi v0.0.0-20180912164834-33a1865c3029
 	github.com/openzipkin/zipkin-go-opentracing v0.3.4
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.7.1
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.13.0
-	github.com/prometheus/procfs v0.1.3
+	github.com/prometheus/common v0.26.0
+	github.com/prometheus/procfs v0.6.0
 	github.com/prometheus/prometheus v1.8.2-0.20200911110723-e83ef207b6c2
 	github.com/riemann/riemann-go-client v0.5.0
 	github.com/safchain/ethtool v0.0.0-20200218184317-f459e2d13664
@@ -128,8 +128,8 @@ require (
 	go.uber.org/multierr v1.6.0 // indirect
 	golang.org/x/net v0.0.0-20201209123823-ac852fbbde11
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
-	golang.org/x/sys v0.0.0-20201119102817-f84b799fce68
+	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
+	golang.org/x/sys v0.0.0-20210603081109-ebe580a85c40
 	golang.org/x/text v0.3.4
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20200205215550-e35592f146e4
 	google.golang.org/api v0.29.0
